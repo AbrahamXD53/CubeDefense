@@ -12,7 +12,7 @@
 - Grounded big tanky enemy
 - Flaying fast enemy
 
-##How to Play##
+##How to Play
 
 Get money by defeating enemies before they hit the base, buy more turrets and built the ultimate defense
 
@@ -20,7 +20,7 @@ Get money by defeating enemies before they hit the base, buy more turrets and bu
 - WASD/Arrow: Move camera arround
 - Mouse Wheel: Zoom In/Zoom out
 
-###Assets made by:###
+**Assets made by:**
 - Kenny (3D models)
 - DTS (Music)
 - And many others, all assets are CC0
