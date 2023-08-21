@@ -7,7 +7,7 @@
 - Ice (Damage + Slow effect)
 - Explosive (Explode enemies around)
 
-**Thre different enemies**
+**Three Enemy Types**
 - Grounded small enemy
 - Grounded big tanky enemy
 - Flaying fast enemy
