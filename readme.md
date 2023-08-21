@@ -10,13 +10,13 @@
 **Three Enemy Types**
 - Grounded small enemy
 - Grounded big tanky enemy
-- Flaying fast enemy
+- Flying fast enemy
 
-##How to Play
+## How to Play
 
 Get money by defeating enemies before they hit the base, buy more turrets and built the ultimate defense
 
-- Drag turret card to empty space to place a turret
+- Drag turret card to empty space in terrain to buy and place a turret
 - WASD/Arrow: Move camera arround
 - Mouse Wheel: Zoom In/Zoom out
 
