@@ -6,7 +6,7 @@ using UnityEngine.Pool;
 namespace CubeDefense
 {
     /***
-     * Base class for objects that need a pool reference to release'em (Don't use Destroy on this gameobjects)
+     * Base class for objects that need a pool reference to release'em (Don't use Destroy on these gameobjects)
      * */
     public abstract class APoolObject<T> : MonoBehaviour where T : Component
     {

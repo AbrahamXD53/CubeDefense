@@ -5,7 +5,7 @@ using UnityEngine;
 namespace CubeDefense
 {
     /// <summary>
-    /// Projectile Mono, with pool, remember, Don't call Destroy on this object
+    /// Projectile MonoBehaviour, with pooling, remember don't call Destroy on this object
     /// </summary>
     public class Projectile : APoolObject<Projectile>
     {

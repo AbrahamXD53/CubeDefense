@@ -6,7 +6,7 @@ using UnityEngine.EventSystems;
 namespace CubeDefense {
 
     /// <summary>
-    /// Turrets can be selected with UnityEvent system, when selected turrets get animated and range can be shown
+    /// Turrets can be selected with UnityEvent system, when a turret is selected it gets animated and its range can be shown
     /// </summary>
     public class TurretSelection : MonoBehaviour, IPointerClickHandler, IDeselectHandler, ISelectHandler
     {

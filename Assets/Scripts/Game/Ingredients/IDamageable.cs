@@ -5,7 +5,7 @@ using UnityEngine;
 namespace CubeDefense
 {
     /// <summary>
-    /// Interface to be implemented when an object can have a lifebar and die
+    /// Interface to be implemented when an object can have a <see cref="LifeBar"/> and die
     /// </summary>
     public interface IDamageable
     {

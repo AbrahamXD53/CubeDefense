@@ -5,6 +5,9 @@ using UnityEngine;
 
 namespace CubeDefense
 {
+    /// <summary>
+    /// Helps to show turrets allowed to buy
+    /// </summary>
     public class Shop : MonoBehaviour
     {
         [SerializeField] private TurretCard[] cards;

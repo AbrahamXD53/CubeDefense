@@ -6,7 +6,7 @@ using UnityEngine;
 namespace CubeDefense
 {
     /// <summary>
-    /// Set Projectile collection
+    /// ScriptableObject to set different projectile stats
     /// </summary>
     [CreateAssetMenu(fileName = "Projectile Collection", menuName = "Collections/Projectiles")]
     public class ProjectileCollection : ScriptableObject

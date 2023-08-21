@@ -5,7 +5,7 @@ using UnityEngine;
 namespace CubeDefense
 {
     /// <summary>
-    /// Gerneric class for singleton instances
+    /// Template class for singleton instances
     /// </summary>
     /// <typeparam name="T"></typeparam>
     public class Singleton<T> : MonoBehaviour where T : Component

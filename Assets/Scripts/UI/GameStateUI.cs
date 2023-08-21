@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 namespace CubeDefense
 {
     /// <summary>
-    /// Class to handle GameState changes and show in the UI
+    /// Class to handle GameState changes and show'em in the UI
     /// </summary>
     public class GameStateUI : MonoBehaviour
     {

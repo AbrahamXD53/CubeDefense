@@ -6,7 +6,7 @@ using UnityEngine;
 namespace CubeDefense
 {
     /// <summary>
-    /// Turret MonoBehaviour that request projectile creation to ProjectileManager 
+    /// Turret MonoBehaviour that request projectile creation to <see cref="ProjectileManager"/> 
     /// </summary>
     public class Turret : MonoBehaviour
     {
