@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9d4e71ab9732f94eab3e15f374d7330, type: 3}
+  m_Name: Projectile Collection
+  m_EditorClassIdentifier: 
+  projPrefab: {fileID: 5472225452052055224, guid: e80027c41275daa4c9c5895c64e15181, type: 3}
+  projectileStats:
+  - projectileType: 0
+    material: {fileID: 2100000, guid: a22008da8d4a58947a67d041e49be6df, type: 2}
+    damage: 2
+    speed: 20
+    collisionPrefab: {fileID: 0}
+  - projectileType: 1
+    material: {fileID: 2100000, guid: e64f2f4a6316e364aa8e136b125b3d7b, type: 2}
+    damage: 1
+    speed: 25
+    collisionPrefab: {fileID: 0}
+  - projectileType: 2
+    material: {fileID: 2100000, guid: d9c8dc6088d87334ab873e8e985c57f4, type: 2}
+    damage: 5
+    speed: 30
+    collisionPrefab: {fileID: 0}
